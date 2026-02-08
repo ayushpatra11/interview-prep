@@ -1,0 +1,26 @@
+# Compiled output
+*.o
+*.out
+a.out
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+*.log
+
+# PDFs - keep local only
+*.pdf
