@@ -19,6 +19,10 @@ sysdesign/   Notes on system design topics I was studying
 
 **Feb - Mar 2026** - Cloudflare Network Platform team. Switched to C++ for this one. More networking-focused on the system design side (BGP, anycast, Linux networking stack).
 
+**Google** - DSA prep for this one was mostly done on LeetCode rather than here. Heatmap and problem history on my [LeetCode profile](https://leetcode.com/u/ayushpatra11/).
+
+**Canonical** - Prep notes for this aren't in the repo. Studied system design, Linux internals, networking and software engineering principles but kept everything in GoodNotes.
+
 ## branches
 
 - `main` - everything in one place
